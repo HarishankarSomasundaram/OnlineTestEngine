@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{if (ViewBag.Role == "Admin")
+{
+    <div class="col-md-4">
+        <section id="socialLoginForm">
+            @Html.Partial("_TestPartial")
+        </section>
+    </div>
+    <div class="col-md-4">
+        <section id="socialLoginForm">
+            @Html.Partial("_StudentPartial")
+        </section>
+    </div>
+}
+else
+{
+    <h1>No Role</h1>
+}
+
+
+
+}
