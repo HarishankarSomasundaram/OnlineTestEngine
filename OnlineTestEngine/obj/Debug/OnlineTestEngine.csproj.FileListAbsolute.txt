@@ -61,3 +61,8 @@ E:\OTE\OnlineTestEngine\OnlineTestEngine\obj\Debug\OnlineTestEngine.dll
 E:\OTE\OnlineTestEngine\OnlineTestEngine\obj\Debug\OnlineTestEngine.pdb
 E:\OTE\OnlineTestEngine\OnlineTestEngine\obj\Debug\OnlineTestEngine.Migrations.AddEmailID.resources
 E:\OTE\OnlineTestEngine\OnlineTestEngine\obj\Debug\OnlineTestEngine.csproj.GenerateResource.Cache
+C:\Users\devanand.s\Source\Repos\OnlineTestEngine\OnlineTestEngine\obj\Debug\OnlineTestEngine.csprojResolveAssemblyReference.cache
+C:\Users\devanand.s\Source\Repos\OnlineTestEngine\OnlineTestEngine\obj\Debug\OnlineTestEngine.Migrations.AddEmailID.resources
+C:\Users\devanand.s\Source\Repos\OnlineTestEngine\OnlineTestEngine\obj\Debug\OnlineTestEngine.csproj.GenerateResource.Cache
+C:\Users\devanand.s\Source\Repos\OnlineTestEngine\OnlineTestEngine\obj\Debug\OnlineTestEngine.dll
+C:\Users\devanand.s\Source\Repos\OnlineTestEngine\OnlineTestEngine\obj\Debug\OnlineTestEngine.pdb

@@ -26,6 +26,7 @@ namespace OnlineTestEngine.Controllers
             }
             return RedirectToLocal(returnUrl);
         }
+        [HttpGet]
         [ValidateAntiForgeryToken]
         public ActionResult CreateStudent()
         {
@@ -50,7 +51,7 @@ namespace OnlineTestEngine.Controllers
             }
 
             // If we got this far, something failed, redisplay form
-            return View(model);
+            return View();
         }
 
         private ActionResult RedirectToLocal(string returnUrl)
